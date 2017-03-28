@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{262F4500-174D-4845-0269-A225BFFBEC6E}") = "ARpastry", "Assembly-CSharp.csproj", "{2D5113C8-9DA8-64AF-AE96-BA290D7317CB}"
+EndProject
+Project("{262F4500-174D-4845-0269-A225BFFBEC6E}") = "ARpastry", "Assembly-CSharp-Editor.csproj", "{A236CD3B-48F0-3082-9217-276B6B68EE6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D5113C8-9DA8-64AF-AE96-BA290D7317CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5113C8-9DA8-64AF-AE96-BA290D7317CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5113C8-9DA8-64AF-AE96-BA290D7317CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5113C8-9DA8-64AF-AE96-BA290D7317CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A236CD3B-48F0-3082-9217-276B6B68EE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A236CD3B-48F0-3082-9217-276B6B68EE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A236CD3B-48F0-3082-9217-276B6B68EE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A236CD3B-48F0-3082-9217-276B6B68EE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
